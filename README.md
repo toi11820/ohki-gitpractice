@@ -12,6 +12,12 @@ y
 #Hi
 
 #release
+<<<<<<< HEAD
 >>>>>>> release
 
 #as
+=======
+
+#hot
+>>>>>>> hotfix
+#hot - dev

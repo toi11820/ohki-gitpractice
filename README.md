@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Hi develop
 =======
 #HELLO WORLD
@@ -7,3 +8,10 @@
 >>>>>>> feature
 
 y
+=======
+#Hi
+
+#release
+>>>>>>> release
+
+#as
